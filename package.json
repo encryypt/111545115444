@@ -35,7 +35,7 @@
     "discord.js": "^11.3.2",
     "express": "^4.16.3",
     "ffmpeg-binaries": "^3.2.2",
-    "figlet": "1.2.0",
+    "figlet": "1.11.3",
     "fs": "^0.0.2",
     "fs-extra": "^7.0.0",
     "get-youtube-id": "^1.0.0",
